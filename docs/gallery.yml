@@ -594,3 +594,15 @@
   repository: https://github.com/ClaudioRojasMon/apuntes_2025
   website: https://claudiorojasmon.github.io/apuntes_2025/
   image: https://github.com/ClaudioRojasMon/apuntes_2025/blob/main/Original.png?raw=true
+- name: "Introduction to GIS Programming"
+  repository: https://github.com/giswqs/intro-gispro
+  website: https://gispro.gishub.org
+  image: https://raw.githubusercontent.com/giswqs/intro-gispro/refs/heads/main/logo.png
+- name: "Spatial Data Management with DuckDB"
+  repository: https://github.com/giswqs/duckdb-spatial
+  website: https://duckdb.gishub.org
+  image: https://raw.githubusercontent.com/giswqs/duckdb-spatial/refs/heads/main/logo.png
+- name: "GeoAI with Python"
+  repository: https://github.com/giswqs/GeoAI-Book
+  website: https://book.opengeoai.org
+  image: https://raw.githubusercontent.com/giswqs/GeoAI-Book/refs/heads/main/logo.png
